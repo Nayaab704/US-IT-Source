@@ -10,15 +10,12 @@ function Home() {
     <>
       <Header />
       <Hero />
-
       <Reveal>
         <Services />
       </Reveal>
-
       <Reveal>
         <Contact />
       </Reveal>
-
       <Footer />
     </>
   );
