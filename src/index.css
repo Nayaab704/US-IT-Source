@@ -1,0 +1,202 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+@keyframes floatCard {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@keyframes driftOne {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(40px, 20px, 0) scale(1.08);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes driftTwo {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(-35px, -18px, 0) scale(1.06);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes driftThree {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(20px, -25px, 0) scale(1.05);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+@keyframes floatCard {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@keyframes driftOne {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(40px, 20px, 0) scale(1.08);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes driftTwo {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(-35px, -18px, 0) scale(1.06);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes driftThree {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(20px, -25px, 0) scale(1.05);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes trailMoveOne {
+  0% {
+    transform: translateX(-8%) rotate(-8deg);
+    opacity: 0.15;
+  }
+  50% {
+    transform: translateX(8%) rotate(-8deg);
+    opacity: 0.45;
+  }
+  100% {
+    transform: translateX(-8%) rotate(-8deg);
+    opacity: 0.15;
+  }
+}
+
+@keyframes trailMoveTwo {
+  0% {
+    transform: translateX(10%) rotate(10deg);
+    opacity: 0.12;
+  }
+  50% {
+    transform: translateX(-8%) rotate(10deg);
+    opacity: 0.35;
+  }
+  100% {
+    transform: translateX(10%) rotate(10deg);
+    opacity: 0.12;
+  }
+}
+
+@keyframes particleFloat {
+  0% {
+    transform: translateY(0) scale(0.9);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.7;
+  }
+  85% {
+    opacity: 0.35;
+  }
+  100% {
+    transform: translateY(-95vh) scale(1.15);
+    opacity: 0;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05);
+
+
+
+
