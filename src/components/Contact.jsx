@@ -18,7 +18,7 @@ function Contact() {
 
             <div style={styles.infoCard}>
               <p style={styles.label}>Phone</p>
-              <p style={styles.value}>(847) 660 - 4340</p>
+              <p style={styles.value}>(224) 306 - 0786</p>
             </div>
 
             <div style={styles.infoCard}>
